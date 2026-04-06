@@ -2,7 +2,7 @@
 
 Edward Laska: elaska@calpoly.edu
 
-Joshua Winn : jkwinn@calpoly.edu
+Joshua Winn: jkwinn@calpoly.edu
 
 Davis Rhee: djrhee@calpoly.edu
 
