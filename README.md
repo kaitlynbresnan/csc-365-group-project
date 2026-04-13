@@ -1,4 +1,4 @@
-# csc-365-group-project
+# Fine Diners
 
 Edward Laska: elaska@calpoly.edu
 
